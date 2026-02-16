@@ -1,6 +1,7 @@
-# OpenSees Models and Data for SSI Study of Retrofitted RC Frames
+# RC-MRF Retrofitting with Steel Bracing: Design Information and Modeling Data
 
-This repository provides modeling data and design information for reinforced concrete moment-resisting frames (RC-MRFs) considering soil–structure interaction (SSI) and steel X-brace retrofitting.
+This repository provides modeling data and design information for nine archetype intermediate reinforced concrete (RC) moment-resisting frames (MRFs) buildings with heights of 4, 8, and 12 stories, founded on three soil classes, and retrofitted with steel X-braces. 
+The dataset includes structural design properties, geotechnical characteristics, foundation design details, retrofit configurations, and earthquake ground motion records. 
 
 ## Contents
 
@@ -10,8 +11,7 @@ This repository provides modeling data and design information for reinforced con
 
 ### Geotechnical Design
 
-* Soil properties
-* Foundation design
+* Soil properties and foundation design
 
 ### Retrofit Design
 
